@@ -30,24 +30,9 @@ _Assistant Auditor_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Fast learner
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
+Making YouTube videos requires a broad variety of skills including editing, colour grading, graphic design (for thumbnails), audio design as well as softer skills like communicating conifdently on camera and being able to write engaging scripts. I learnt all of these things by doing: each video I would make I would learn something new about each skill whether it was adding exciting new transitions whilst editing or seeing in my analytics that certain introductions to my videos would have a higher audience retention for example. I paired my academic research into learning these skills with a lot of practical trial and error and I ended up making dozens of videos that were produced to a very high quality and received many comments on how much the quality of my videos had improved over the months. Other creators even reached out to me for advice on how to make videos to a similar standard. I've always been someone who is quick to pick things up: after deciding I wanted to dabble with coding in March 2022, I ended up completing Codecademy courses in HTML, CSS, JavaScript and Ruby and had completed at least 40 problems on codewars and I did all this within the span of a single month. A career in software development will inevitably require me to learn things quickly as technologies continue to evolve and I believe I am well-placed to thrive in such an environment.
 
 #### Another Skill
 
