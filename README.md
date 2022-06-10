@@ -6,26 +6,27 @@ I graduated from The London School of Economics and Political Science with a deg
 
 For as long as I can remember I have been super interested in developments in technology: whether it was agonising over the specs of the latest iPhone or passionately debating Windows vs macOS, I've always had that techy spark inside of me. Now that I'm learning to code, I feel empowered to actually contribute to developments in the tech industry: an industry that is so exciting and so crucial to how the whole world functions.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
 ## Projects
 
 | Project                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Fizzbuzz](https://github.com/meddydev/fizzbuzz)**            | Program that solves the "fizzbuzz" problem | Ruby, Git, GitHub, RSpec, TDD |
-| **[Student Directory]()** | Script that manages a directory of students (that can be invoked from the command line) | Ruby, Git, GitHub|
+| **[Fizzbuzz](https://github.com/meddydev/fizzbuzz)**            | Program that solves the "fizzbuzz" problem. | Ruby, Git, GitHub, RSpec, TDD |
+| **[Student Directory](https://github.com/meddydev/student-directory)** | Script that manages a directory of students (that can be invoked from the command line.) | Ruby, Git, GitHub|
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**YouTube** (September 2021 to Present)  
+_Content Creator_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Began uploading videos to YouTube on September 30th and produced one video a week for 8 months in a row. Grew faster than the average creator and marketed the channel on other platforms.
+- Learnt to edit and colour grade videos using DaVinci Resolve and Final Cut Pro. Have gained graphic design skills while making video thumbnails.
+- Gained practical filmmaking skills. These include operation and optimal use of a mirrorless camera as well as setting up audio and lighting properly. Have also greatly improved my speaking and writing skills in the process of researching and scripting each video and having to come across confident on camera.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**National Audit Office** (August 2021 to December 2021)  
+_Assistant Auditor_
 
-- Any experience relevent to software development
+- Passed Assurance and Accounting ACA exams.
+- Worked on high profile audits. Synthesised key analytical data using Excel.
 
 ## Skills
 
@@ -59,25 +60,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (May 2022 to September 2022)
+- Became fluent in using the command line and working regularly with Git/GitHub.
+- Learnt Ruby to a high level, am completely familiar with syntax and have built multiple procedural programs using the language.
+- Have collaborated  with other coders a lot and have frequently pair programmed to solve problems in an efficient manner. This has prepared me for a software engineering role where I expect the communication and teamwork skills I have developed to be vital. 
+- OOP, TDD
+- Ruby, RSpec
+- Git, GitHub
 
-#### Your University / College (start_date to end_date)
+#### The London School of Economics and Political Science (2018 to 2021)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Economics
+- Upper Second-Class Honours
+- Modules studied included Mathematical Methods, Elementary Statistical Theory and Introduction to Econometrics
+- Was the Community and Welfare officer of my halls of residence in my first and second years
 
-#### Any other qualifications
+#### Westminster School (2011 to 2018)
 
-That in some arguable way make you a better software developer or well-rounded person
+- A Levels: Mathematics A*, Economics A, Philosophy A, Further Mathematics A (AS)
+- 10 GCSEs: 9A*, 1A (Including Computer Science)
+- Was on an academic scholarship
 
-## Hobbies
+## Other Experiences / Hobbies / Skills
 
-Any cool stuff that makes you a super part of a software development team
+- Fluent in Farsi
+- Merit in Pre-U Short Course French
+- Senior Mathematics Challenge Gold Award, UKMT Team Mathematics Challenge Regional Final Runner-up
+- Big football and snooker fan (love both playing and watching)
