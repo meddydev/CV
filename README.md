@@ -58,7 +58,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - BSc Economics
 - Upper Second-Class Honours
 - Modules studied included Mathematical Methods, Elementary Statistical Theory and Introduction to Econometrics
-- Was the Community and Welfare officer of my halls of residence in my first and second years
+- Was the Community and Welfare Officer of my halls of residence in my first and second years
 
 #### Westminster School (2011 to 2018)
 
@@ -70,5 +70,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Fluent in Farsi
 - Merit in Pre-U Short Course French
-- Senior Mathematics Challenge Gold Award, UKMT Team Mathematics Challenge Regional Final Runner-up
+- Senior Mathematics Challenge Gold Award, UKMT Team Maths Challenge Regional Final Runner-up
 - Big football and snooker fan (love both playing and watching)
