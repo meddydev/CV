@@ -1,13 +1,19 @@
-## Your Name
+## Ahmed Hallajian
+
+I am currently a student on the Makers Academy coding bootcamp with ambitions to learn as much as I can to prepare me for a software engineering role. I would love to work somehwere where my efforts will make an impact that I can see in the world in addition to somewhere when I can learn from other professionals who can help me grow.
+
+I graduated from The London School of Economics and Political Science with a degree in Economics in July of 2021. After that I spent 4 months working as an assistant auditor at the National Audit Office; after deciding that a career in audit wasn't for me, I took some time out and started making YouTube videos full-time until finally I dabbled with coding and knew in an instant that I'd found exactly what it is that I want a career in.
+
+For as long as I can remember I have been super interested in developments in technology: whether it was agonising over the specs of the latest iPhone or passionately debating Windows vs macOS, I've always had that techy spark inside of me. Now that I'm learning to code, I feel empowered to actually contribute to developments in the tech industry: an industry that is so exciting and so crucial to how the whole world functions.
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
+| Project                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **[Fizzbuzz](https://github.com/meddydev/fizzbuzz)**            | Program that solves the "fizzbuzz" problem | Ruby, Git, GitHub, RSpec, TDD |
+| **[Student Directory]()** | Script that manages a directory of students (that can be invoked from the command line) | Ruby, Git, GitHub|
 
 ## Work Experience
 
