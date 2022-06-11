@@ -34,15 +34,6 @@ _Assistant Auditor_
 
 Making YouTube videos requires a broad variety of skills including editing, colour grading, graphic design (for thumbnails), audio design as well as softer skills like communicating conifdently on camera and being able to write engaging scripts. I learnt all of these things by doing: each video I would make I would learn something new about each skill whether it was adding exciting new transitions whilst editing or seeing in my analytics that certain introductions to my videos would have a higher audience retention for example. I paired my academic research into learning these skills with a lot of practical trial and error and I ended up making dozens of videos that were produced to a very high quality and received many comments on how much the quality of my videos had improved over the months. Other creators even reached out to me for advice on how to make videos to a similar standard. I've always been someone who is quick to pick things up: after deciding I wanted to dabble with coding in March 2022, I ended up completing Codecademy courses in HTML, CSS, JavaScript and Ruby and had completed at least 40 problems on codewars and I did all this within the span of a single month. A career in software development will inevitably require me to learn things quickly as technologies continue to evolve and I believe I am well-placed to thrive in such an environment.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (May 2022 to September 2022)
