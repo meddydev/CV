@@ -1,4 +1,4 @@
-## Ahmed Hallajian
+## Ahmed Hallajian CV
 
 I am currently a student on the Makers Academy coding bootcamp with ambitions to learn as much as I can to prepare me for a software engineering role. I would love to work somehwere where my efforts will make an impact that I can see in the world in addition to somewhere when I can learn from other professionals who can help me grow.
 
